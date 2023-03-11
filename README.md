@@ -1,2 +1,2 @@
 # Ab-Testing-to-analyze-e-commece
-this is a jupyter notebook for 
+In this particular project, my focus was on comprehending the outcome of an A/B test carried out by an e-commerce website. this is an example for using a jupyter notebook in order to provide valuable insights to the company regarding whether they should proceed with the implementation of the new webpage, retain the existing one, or extend the duration of the experiment to gather more data before reaching a decision
